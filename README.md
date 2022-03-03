@@ -15,8 +15,13 @@
     <ul>
       <li>Ejs</li>
       <li>Express</li>
+      <li>Express-session</li>
+      <li>Express-validator</li>
+      <li>Multer</li>
+      <li>Bcrypt</li>
     </ul>
   </li>
   <li>Java SE</li>
   <li>PostgreSql</li>
+  <li>MySql</li>
 </ul>
