@@ -24,4 +24,5 @@
   <li>Java SE</li>
   <li>PostgreSql</li>
   <li>MySql</li>
+  <li>NDG Linux Essentials course in the Cisco Networking Academy</li>
 </ul>
