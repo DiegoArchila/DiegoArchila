@@ -1,28 +1,6 @@
+<h3 align="center">Hola 👋, soy Diego Alonso Archila</h3>
 
-<h1 align="center">Hola 👋, soy Diego Alonso Archila</h1>
+| 🧐 Skills |
+| - |
+| <a><img alt='node.js' src='https://img.shields.io/badge/NodeJS-100000?style=for-the-badge&logo=node.js&logoColor=green&labelColor=black&color=green'/></a> <a><img alt='css3' src='https://img.shields.io/badge/CSS3%20(BEM)-100000?style=for-the-badge&logo=css3&logoColor=white&labelColor=6D7DF4&color=3C3939'/></a> <a><img alt='html5' src='https://img.shields.io/badge/HTLM-100000?style=for-the-badge&logo=html5&logoColor=white&labelColor=FF002F&color=F4B984'/></a> <a><img alt='javascript' src='https://img.shields.io/badge/Javascript-100000?style=for-the-badge&logo=javascript&logoColor=4CFF00&labelColor=000000&color=A67D2A'/></a> <a></a><img alt='express' src='https://img.shields.io/badge/Express-100000?style=for-the-badge&logo=express&logoColor=000000&labelColor=FFFFFF&color=FFFFFF'/></a> <a><img alt='java' src='https://img.shields.io/badge/JAVA_SE-100000?style=for-the-badge&logo=java&logoColor=FFFFFF&labelColor=4D33BD&color=7555FF'/></a> <a><img alt='Postgresql' src='https://img.shields.io/badge/postgresql-100000?style=for-the-badge&logo=Postgresql&logoColor=4D33BD&labelColor=FFFFFF&color=46135C'/></a> <a><img alt='mysql' src='https://img.shields.io/badge/MySQL-100000?style=for-the-badge&logo=mysql&logoColor=FFFFFF&labelColor=FF3C3C&color=FF3C3C'/></a> <a><img alt='react' src='https://img.shields.io/badge/React-100000?style=for-the-badge&logo=react&logoColor=FFFFFF&labelColor=6600FF&color=47316C'/></a> <a><img alt='bootstrap' src='https://img.shields.io/badge/bootstrap-100000?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF&labelColor=6610f2&color=190638'/></a> | 
 <p align="center">Soy una persona <strong>apasionada</strong> por el mundo del desarrollo!, adoro el Back 👻, y al Front le hago frente 😄!!</p>
-<p align="left">La curiosidad y las ganas de aprender más, y mi gusto por la informática 🥰 ya hecho que estudie esta maravillosa ciencia. En el momento, me encuentro estudiando desarrollo Web 🤯, pero, hago cosas increíbles con lo poco que sé! 🤫 ; no me gusta quedarme solo con lo básico 🥸 .</p>
-<h2>🧐 Skills </h2>
-<ul title="Skills">
-  <li>Html</li>
-  <li>Css
-    <ul>
-      <li>Metodología BEM</li>
-    </ul>
-  </li>
-  <li>JavaScript</li>
-  <li>NodeJS
-    <ul>
-      <li>Ejs</li>
-      <li>Express</li>
-      <li>Express-session</li>
-      <li>Express-validator</li>
-      <li>Multer</li>
-      <li>Bcrypt</li>
-    </ul>
-  </li>
-  <li>Java SE</li>
-  <li>PostgreSql</li>
-  <li>MySql</li>
-  <li>NDG Linux Essentials course in the Cisco Networking Academy</li>
-</ul>
