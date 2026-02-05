@@ -1,6 +1,52 @@
-<h3 align="center">Hola 👋, soy Diego Alonso Archila</h3>
+<h3 align="center">¡Hola! 👋 Soy Diego Alonso Archila</h3>
+<p align="center">
+  <strong>Full Stack Developer | Java Ecosystem & UI Components Enthusiast</strong>
+</p>
 
-| 🧐 Skills |
-| - |
-| <a><img alt='node.js' src='https://img.shields.io/badge/NodeJS-100000?style=for-the-badge&logo=node.js&logoColor=green&labelColor=black&color=green'/></a> <a><img alt='css3' src='https://img.shields.io/badge/CSS3%20(BEM)-100000?style=for-the-badge&logo=css3&logoColor=white&labelColor=6D7DF4&color=3C3939'/></a> <a><img alt='html5' src='https://img.shields.io/badge/HTLM-100000?style=for-the-badge&logo=html5&logoColor=white&labelColor=FF002F&color=F4B984'/></a> <a><img alt='javascript' src='https://img.shields.io/badge/Javascript-100000?style=for-the-badge&logo=javascript&logoColor=4CFF00&labelColor=000000&color=A67D2A'/></a> <a></a><img alt='express' src='https://img.shields.io/badge/Express-100000?style=for-the-badge&logo=express&logoColor=000000&labelColor=FFFFFF&color=FFFFFF'/></a> <a><img alt='java' src='https://img.shields.io/badge/JAVA_SE-100000?style=for-the-badge&logo=java&logoColor=FFFFFF&labelColor=4D33BD&color=7555FF'/></a> <a><img alt='Postgresql' src='https://img.shields.io/badge/postgresql-100000?style=for-the-badge&logo=Postgresql&logoColor=4D33BD&labelColor=FFFFFF&color=46135C'/></a> <a><img alt='mysql' src='https://img.shields.io/badge/MySQL-100000?style=for-the-badge&logo=mysql&logoColor=FFFFFF&labelColor=FF3C3C&color=FF3C3C'/></a> <a><img alt='react' src='https://img.shields.io/badge/React-100000?style=for-the-badge&logo=react&logoColor=FFFFFF&labelColor=6600FF&color=47316C'/></a> <a><img alt='bootstrap' src='https://img.shields.io/badge/bootstrap-100000?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF&labelColor=6610f2&color=190638'/></a> <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='sass' src='https://img.shields.io/badge/sass-100000?style=for-the-badge&logo=sass&logoColor=FF6E77&labelColor=FFFFFF&color=F77C7C'/></a> <a><img alt='sequelize' src='https://img.shields.io/badge/Sequelize-100000?style=for-the-badge&logo=sequelize&logoColor=0026FF&labelColor=FFFFFF&color=0026FF'/></a> <a><img alt='linux' src='https://img.shields.io/badge/Debian_ubuntu-100000?style=for-the-badge&logo=linux&logoColor=000000&labelColor=FFFFFF&color=FF3434'/></a> | 
-<p align="center">Soy una persona <strong>apasionada</strong> por el mundo del desarrollo!, adoro el Back 👻, y al Front le hago frente 😄!!</p>
+<p align="center">
+  Soy un apasionado del desarrollo de software. Mi fuerte es el <strong>Backend 👻</strong> con arquitecturas reactivas, pero <strong>al Frontend le hago frente 😄</strong> construyendo interfaces modernas y funcionales.
+</p>
+
+---
+
+### 🚀 Sobre mí
+
+- 🐾 **[Huellitas](https://mishuellitas.co)**: Desarrollando una plataforma integral para mascotas usando **Spring WebFlux** y **React**.
+- 🏗️ **Arquitectura**: Enfocado en Clean Architecture, patrones de diseño y programación reactiva.
+- 🎨 **UI/UX**: Me gusta trabajar con librerías de componentes como **Mantine** y **Chakra UI** para crear experiencias de usuario consistentes.
+- 🐧 **Entorno**: Usuario de Linux y gestionando contenedores con **Docker**.
+
+---
+
+### 🛠️ Tech Stack
+
+#### ⚙️ Backend & Bases de Datos
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+#### 💻 Frontend & UI Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Mantine](https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=mantine&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### 🛠️ Infraestructura & Herramientas
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 Estadísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoArchila&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
+</p>
+
+---
+
+### 📫 Conectemos
+<a href="https://www.linkedin.com/in/diego-archila-65b407212/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
